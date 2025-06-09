@@ -1,0 +1,11 @@
+- title: "My Awesome Publication"
+  authors: "John Doe, Jane Smith"
+  journal: "Journal of Important Stuff"
+  year: 2024
+  url: "https://example.com/publication1"
+
+- title: "Another Research Paper"
+  authors: "Jane Smith, John Doe"
+  conference: "International Conference on Whatever"
+  year: 2023
+  url: "https://example.com/publication2"
