@@ -1,20 +1,14 @@
 ---
-layout: default
-permalink: /publications/
+layout: single
 title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
 
-{% for publication in site.data.publications %}
-  ## {{ publication.title }}
-  **Authors:** {{ publication.authors }}
-  {% if publication.journal %}
-  **Journal:** {{ publication.journal }}
-  {% endif %}
-  {% if publication.conference %}
-  **Conference:** {{ publication.conference }}
-  {% endif %}
-  **Year:** {{ publication.year }}
-  {% if publication.url %}
-  [Link to Publication]({{ publication.url }})
-  {% endif %}
+{% for pub in site.data.publications %}
+### {{ pub.title }}
+**Authors:** {{ pub.authors }}  
+**Journal:** {{ pub.journal }}, {{ pub.year }}  
+{% if pub.doi %}[DOI]( {{ pub.doi }} ){% endif %} {% if pub.pdf %}| [PDF]( {{ pub.pdf }} ){% endif %}
+<hr>
 {% endfor %}
