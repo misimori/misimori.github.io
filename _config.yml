@@ -65,9 +65,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:misimori@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=NKSx2loAAAAJ&hl=en&oi=ao"
+   # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+     # url: "https://"
   #  - label: "Twitter"
    #   icon: "fab fa-fw fa-twitter-square"
    #   url: "https://twitter.com/"
@@ -81,9 +84,6 @@ author:
      # - label: "Email"
      # icon: "fas fa-fw fa-envelope-square"
      # url: "mailto:misimori@gmail.com"
-      #- label: "Google Scholar"
-      #icon: "google-scholar"
-      #url: "https://scholar.google.com/citations?user=NKSx2loAAAAJ&hl=en&oi=ao"
 
 
 
