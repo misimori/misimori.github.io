@@ -78,9 +78,9 @@ author:
       - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "misimori@gmail.com"
-      - label: "Google Scholar"
-      icon: "google-scholar"
-      url: "https://scholar.google.com/citations?user=NKSx2loAAAAJ&hl=en&oi=ao"
+      #- label: "Google Scholar"
+      #icon: "google-scholar"
+      #url: "https://scholar.google.com/citations?user=NKSx2loAAAAJ&hl=en&oi=ao"
 
 
 
