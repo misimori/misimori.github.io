@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% assign pubs = site.data.publications | sort: 'year' | reverse %}
-
+<div class="small">
 <ol reversed>
+{% assign pubs = site.data.publications | sort: 'year' | reverse %}
 {% for pub in pubs %}
   <li>
     {{ pub.authors }}.
@@ -24,3 +24,4 @@ author_profile: true
   </li>
 {% endfor %}
 </ol>
+</div>
