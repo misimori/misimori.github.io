@@ -3,8 +3,6 @@ layout: default
 permalink: /publications/
 title: "Publications"
 ---
-1.
-# My Publications
 
 {% for publication in site.data.publications %}
   ## {{ publication.title }}
