@@ -1,11 +1,11 @@
-- title: "My Awesome Publication"
-  authors: "John Doe, Jane Smith"
-  journal: "Journal of Important Stuff"
+- title: "Fluid mediated communication among flexible micro-posts in chemically reactive solutions"
+  authors: "Moradi, Moslem and Shklyaev, Oleg E and Shi, Wenzheng and Balazs, Anna C"
+  journal: "Materials Horizons"
   year: 2024
-  url: "https://example.com/publication1"
+  url: "https://pubs.rsc.org/en/content/articlehtml/2024/mh/d4mh01111b"
 
-- title: "Another Research Paper"
-  authors: "Jane Smith, John Doe"
-  conference: "International Conference on Whatever"
-  year: 2023
-  url: "https://example.com/publication2"
+- title: "A reciprocal theorem for biphasic poro-viscoelastic materials"
+  authors: "Moradi, Moslem and Shi, Wenzheng and Nazockdast, Ehssan"
+  journal: "Journal of Fluid Mechanics"
+  year: 2024
+  url: "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reciprocal-theorem-for-biphasic-poroviscoelastic-materials/FFA962A536E4BA186533B76F71542658"
