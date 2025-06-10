@@ -40,6 +40,13 @@
   url: "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/general-solutions-of-linear-poroviscoelastic-materials-in-spherical-coordinates/FC733BCE782201591C486BE96DC28D61"
   pdf: "/assets/MyPapers/general_solutions.pdf"
 
+- title: "Hydrodynamics of a single filament moving in a spherical membrane"
+  authors: "Shi, Wenzheng and Moradi, Moslem and Nazockdast, Ehssan"
+  journal: "Physical Review Fluids"
+  year: 2022
+  url: "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.084004"
+  pdf: "/assets/MyPapers/PRF1.pdf"
+
 - title: "Cell nucleus as a micro-rheological probe to study the rheology of cytoskeleton"
   authors: "Moradi, Moslem and Nazockdast, Ehssan"
   journal: "Biophysical Journal"
