@@ -2,5 +2,9 @@
 permalink: /research/
 title: 
 ---
-I am *Postdoc Researcher* at University of Pittsburgh. My research interests lie at the intersection of physics-based modeling of cell mechanics, computational fluid dynamics and fluid structure interactions.
+
+- Continuum modeling for rheology of cell cytoskeleton
+- Integrating fluid flow, chemistry and mechanics to drive self-oscillations and spontaneous formation of 3D patterns in anchored microstructures
+- Applications of reciprocal theorem for biphasic poro-viscoelastic materials
+- Autonomous chemically-driven fluid pumping for particle transport, assembly and shape-morphing of elastic micro-structures
 
