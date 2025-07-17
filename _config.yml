@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-minimal_mistakes_skin    : "dark" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "default" #"dark" # "default", "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 title: MM
 email:
