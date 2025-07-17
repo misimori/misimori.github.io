@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: archive
+layout: single
 sitemap: true
 permalink: /
 author_profile: true
