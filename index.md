@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 ---
 
-# About
-
 I am *Postdoc Researcher* at University of Pittsburgh. My research interests lie at the intersection of physics-based modeling of cell mechanics, soft matter and fluid structure interactions. 
 
 
