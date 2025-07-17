@@ -1,8 +1,15 @@
 ---
+title: "Research"
+layout: single
+sitemap: true
 permalink: /research/
-title: 
+author_profile: true
+toc: true
+toc_label: "Research"
+toc_icon: "gear"
+toc_sticky: true
 ---
-My research interests lie at the intersection of physics-based modeling of cell mechanics, soft matter and fluid structure interactions.
+My research interests lie at the intersection of physics-based modeling of cell mechanics, soft matter and fluid structure interactions. Current and past research projects include:
 
 - Continuum modeling for rheology of cell cytoskeleton
 - Integrating fluid flow, chemistry and mechanics to drive self-oscillations and spontaneous formation of 3D patterns in anchored microstructures
