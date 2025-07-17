@@ -8,8 +8,7 @@ author_profile: true
 ---
 # About
 
-I am *Postdoc Researcher* in [Anna Balazs lab](https://www.engineering.pitt.edu/ccma/) at University of Pittsburgh, Department of Chemical Engineering. My research interests lie at the intersection of physics-based modeling of cell mechanics, soft matter and fluid structure interactions.
-My work at Pitt involves computer modeling of buoyancy-driven flows in a micro-chamber as a result of adding chemical reagents to react with enzyme-coated elastic micro-posts. We show that how these chemo-hydro-mechanical feedback affects interactions in biomimetic array of anchored elastic micro-posts to generate regular, self-organized dynamical patterns as well as different modes of motion. 
+I am *Postdoc Researcher* in [Anna Balazs lab](https://www.engineering.pitt.edu/ccma/) at University of Pittsburgh, Department of Chemical Engineering. My work at Pitt involves computer modeling of buoyancy-driven flows in a micro-chamber as a result of adding chemical reagents to react with enzyme-coated elastic micro-posts. We show that how these chemo-hydro-mechanical feedback affects interactions in biomimetic array of anchored elastic micro-posts to generate regular, self-organized dynamical patterns as well as different modes of motion. 
 
 Before that I was in [Nazockdast lab](https://www.nazockdastlab.com) at the Department of Applied Physical Sciences at UNC Chapel Hill. My research has been mainly focused on continuum modeling of the mechanical behavior of the cell. In these studies, the cell is a multi-component structure composed of the cellular boundary, the cell interior and its nucleus, where these components are modeled as poro-viscoelastic materials. We have developed several tools of Stokes flow micro-hydrodynamics for equations of linear poroelasticity, including their general and fundamental solutions, reciprocal theorem and Faxén relations. 
 
