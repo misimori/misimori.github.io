@@ -11,12 +11,12 @@ toc_sticky: true
 ---
 My research interests lie at the intersection of physics-based modeling of cell mechanics, soft matter and fluid structure interactions. Current and past research projects include:
 
-- Active matter
+- Active matter; theory and simulations
 - Continuum modeling for rheology of cell cytoskeleton
 - Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
 
-## Active matter
-### Effective viscosity of a dilue active suspension: a simple microscopic model
+## Active matter; theory and simulations
+**Effective viscosity of a dilue active suspension: a simple microscopic model**
 
 <figure>
   <img src="/assets/images/fig1.png" width="1000px" alt="">
@@ -24,7 +24,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figcaption>
 </figure>
 
-### Surface tension in soft active Brownian particles
+**Surface tension in soft active Brownian particles**
 
 <figure>
   <img src="/assets/images/fig6.png" width="1000px" alt="">
@@ -33,7 +33,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figure>
 
 
-### Motion of a filament on a fluid spherical membrane 
+**Motion of a filament on a fluid spherical membrane** 
 
 <figure>
   <img src="/assets/images/fig5.png" width="1000px" alt="">
@@ -43,7 +43,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 
 ## Continuum modeling for rheology of cell cytoskeleton
-### Cell nucleus as a micro-rheological probe
+**Cell nucleus as a micro-rheological probe**
 
 <figure>
   <img src="/assets/images/fig2.png" width="1000px" alt="">
@@ -51,7 +51,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figcaption> 
 </figure>
 
-### General solutions of linear poro-viscoelastic materials in spherical coordinates
+**General solutions of linear poro-viscoelastic materials in spherical coordinates**
 
 <figure>
   <img src="/assets/images/fig3.png" width="1000px" alt="">
@@ -60,7 +60,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figure>
 
 
-### Reciprocal theorem for (equations of) linear poro-viscoelastic materials
+**Reciprocal theorem for (equations of) linear poro-viscoelastic materials**
 
 <figure>
   <img src="/assets/images/fig4.png" width="1000px" alt="">
@@ -71,7 +71,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 ## Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
 
-### Using chemical reactions to generate patterns and design rules
+**Using chemical reactions to generate patterns and design rules**
 
 <figure>
   <img src="/assets/images/fig7.png" width="1000px" alt="">
@@ -79,7 +79,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figcaption> 
 </figure>
 
-### Non-reciprocal self-oscillation of a flexible micro-post by chemical reaction
+**Non-reciprocal self-oscillation of a flexible micro-post by chemical reaction**
 
 <figure>
   <img src="/assets/images/fig8.png" width="1000px" alt="">
@@ -87,7 +87,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figcaption> 
 </figure>
 
-### Convective chemical influx from sidewalls to control dynamic behavior of micro-posts 
+**Convective chemical influx from sidewalls to control dynamic behavior of micro-posts** 
 
 <figure>
   <img src="/assets/images/fig9.png" width="1000px" alt="">
@@ -95,7 +95,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figcaption> 
 </figure>
 
-### Active micro-posts control the morphology of underlying compliant substrates
+**Active micro-posts control the morphology of underlying compliant substrates**
 
 <figure>
   <img src="/assets/images/fig10.png" width="1000px" alt="">
