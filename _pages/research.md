@@ -22,7 +22,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig1.png" width="1000px" alt="">
-  <figcaption>Geometry of a three-sphere swimmer immersed in a shear flow (*left*), and two interacting three-linked sphere swimmer (*right*).
+  <figcaption>Geometry of a three-sphere swimmer immersed in a shear flow *left* , and two interacting three-linked sphere swimmer *right*.
 </figcaption>
 </figure>
 
