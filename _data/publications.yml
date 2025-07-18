@@ -34,7 +34,7 @@
   authors: "Shi, Wenzheng and Moradi, Moslem and Nazockdast, Ehssan"
   journal: "Journal of Fluid Mechanics"
   year: 2024
-  image: "/assets/images/fig5.npg"
+  image: "/assets/images/fig5b.npg"
   url: "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/drag-of-a-filament-moving-in-a-supported-spherical-bilayer/E098439C74EA293CEEB613C431772DCE"
   pdf: "/assets/MyPapers/filament_JFM.pdf"
  
@@ -74,7 +74,7 @@
   authors: "Moradi, Moslem and Najafi, Ali"
   journal: "Physical Review E"
   year: 2017
-  image: "/assets/images/fig1.npg"
+  image: "/assets/images/fig1b.npg"
   url: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.022611"
   pdf: "/assets/MyPapers/PRE1.pdf"
 
@@ -82,7 +82,7 @@
   authors: "Moradi, Moslem and Najafi, Ali"
   journal: "Europhysics Letters"
   year: 2015
-  image: "/assets/images/fig1.npg"
+  image: "/assets/images/fig1a.npg"
   url: "https://iopscience.iop.org/article/10.1209/0295-5075/109/24001/meta"
   pdf: "/assets/MyPapers/EPL2015"
 
