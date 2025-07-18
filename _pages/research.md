@@ -31,8 +31,8 @@ Chemically active, catalytic objects in aqueous environments can autonomously pe
 </figure>
 
 **(ii)- Non-reciprocal self-oscillation of a flexible micro-post by chemical reaction**<br>
-Here, we design a system of flexible microposts in solution that convert non-oscillatory chemical input into self-organized oscillatory output, which enabled the posts to spontaneously propagate a chemical signal over long distances (i.e., comparable to the characteristic length in the system). 
-In the simplest two-post system, the reaction at the active post generates radially symmetric flow that kept the central post up-right. The fluid–structure interaction with the surrounding walls and the passive post broke this local symmetry and lead to the nontrivial behavior of the passive structure. This circular flow pattern enabled a non-oscillatory chemical input to produce oscillatory chemo-mechanical output.
+<span style="font-size: 18px;"> Here, we design a system of flexible microposts in solution that convert non-oscillatory chemical input into self-organized oscillatory output, which enabled the posts to spontaneously propagate a chemical signal over long distances (i.e., comparable to the characteristic length in the system). 
+In the simplest two-post system, the reaction at the active post generates radially symmetric flow that kept the central post up-right. The fluid–structure interaction with the surrounding walls and the passive post broke this local symmetry and lead to the nontrivial behavior of the passive structure. This circular flow pattern enabled a non-oscillatory chemical input to produce oscillatory chemo-mechanical output. </span> 
 
 <figure>
   <img src="/assets/images/fig8.png" width="1000px" alt="">
@@ -41,8 +41,8 @@ In the simplest two-post system, the reaction at the active post generates radia
 </figure>
 
 **(iii)- Convective chemical influx from sidewalls to control dynamic behavior of micro-posts**<br>
-Relatively dense chemicals released from the chamber’s side walls diffuse into the solution and generate buoyancy-driven flows, which spontaneously trigger the posts to undergo collective dynamics. 
-The posts’ dynamics can be controllably programmed by staging the sequence of chemical release from the different walls. 
+<span style="font-size: 18px;"> Relatively dense chemicals released from the chamber’s side walls diffuse into the solution and generate buoyancy-driven flows, which spontaneously trigger the posts to undergo collective dynamics. 
+The posts’ dynamics can be controllably programmed by staging the sequence of chemical release from the different walls. </span>
 
 <figure>
   <img src="/assets/images/fig9.png" width="1000px" alt="">
@@ -51,8 +51,8 @@ The posts’ dynamics can be controllably programmed by staging the sequence of 
 </figure>
 
 **(iv)- Active micro-posts control the morphology of underlying compliant substrates**<br>
-While the behavior of cilial arrays in biology has been well studied, less is known about how the movement of cilia in flowing fluids affects the morphology of the underlying, anchoring surface and how these morphological changes affect subsequent cilia-substrate interactions. Changes in the fluid velocity will in turn affect the forces acting on the deformable surfaces and lead to feedback in fluid-structure interactions, hydrodynamics, and even the kinetics of the enzymatic reaction.
-We modeled thin elastic surfaces that were decorated with an array of anchored enzyme-coated posts. The flow exerted fluid drag that morphed the entire carpet into either a scroll, envelope, or a bridge-like structure. 
+<span style="font-size: 18px;"> While the behavior of cilial arrays in biology has been well studied, less is known about how the movement of cilia in flowing fluids affects the morphology of the underlying, anchoring surface and how these morphological changes affect subsequent cilia-substrate interactions. Changes in the fluid velocity will in turn affect the forces acting on the deformable surfaces and lead to feedback in fluid-structure interactions, hydrodynamics, and even the kinetics of the enzymatic reaction.
+We modeled thin elastic surfaces that were decorated with an array of anchored enzyme-coated posts. The flow exerted fluid drag that morphed the entire carpet into either a scroll, envelope, or a bridge-like structure. </span> 
 
 <figure>
   <img src="/assets/images/fig10.png" width="1000px" alt="">
