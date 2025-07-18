@@ -15,7 +15,18 @@ My research interests lie at the intersection of physics-based modeling of cell 
 - Continuum modeling for rheology of cell cytoskeleton
 - General solutions and reciprocal theorem for (equations of) linear poro-viscoelastic materials
 - Motion of a filament on a fluid spherical membrane
+- Surface tension in soft active Brownian particles
 - Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions in a micro-chamber (Lattice-Boltzman-Immersed-Boundary simulations)
+
+## Effective viscosity of a dilue active suspension
+
+
+
+
+
+
+
+
 
 
 
