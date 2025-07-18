@@ -51,11 +51,12 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figcaption 
 </figure>
 
+
 ### Reciprocal theorem for (equations of) linear poro-viscoelastic materials
 
 <figure>
   <img src="/assets/images/fig4.png" width="1000px" alt="">
-  <figcaption>An arbitrarily shaped inclusion in an unbounded domain. 
+  <figcaption> An arbitrarily shaped inclusion in an unbounded domain. 
 </figcaption 
 </figure>
 
@@ -64,13 +65,12 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig5.png" width="1000px" alt="">
-  <figcaption>The flow field induced by a filament moving with a constant velocity in the parellel and perpendicular  direction with the corresponding resistances.
+  <figcaption> The flow field induced by a filament moving with a constant velocity in the parellel and perpendicular  direction with the corresponding resistances.
 </figcaption 
 </figure>
 
 
 ## Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions in a micro-chamber (Lattice-Boltzman-Immersed-Boundary simulations)
-
 ### Using chemical reactions to generate patterns and design rules
 
 <figure>
