@@ -59,7 +59,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figcaption 
 </figure>
 
-## Motion of a filament on a fluid spherical membrane
+## Motion of a filament on a fluid spherical membrane 
 
 <figure>
   <img src="/assets/images/fig5.png" width="1000px" alt="">
