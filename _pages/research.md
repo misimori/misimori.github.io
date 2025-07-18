@@ -29,8 +29,8 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig6.png" width="1000px" alt="">
-  <figcaption>
-</figcaption>Steady-state ABP system with bulk (green), interface (yellow) and dilute (red) phases. 
+  <figcaption>Steady-state ABP system with bulk (green), interface (yellow) and dilute (red) phases.
+</figcaption> 
 </figure>
 
 
