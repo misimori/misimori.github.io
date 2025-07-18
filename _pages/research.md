@@ -11,62 +11,10 @@ toc_sticky: true
 ---
 My research interests lie at the intersection of physics-based modeling of cell mechanics, soft matter and fluid structure interactions. Current and past research projects include:
 
-- Active matter; theory and simulations
-- Continuum modeling for rheology of cell cytoskeleton
 - Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
+- Continuum modeling for rheology of cell cytoskeleton
+- Active matter; theory and simulations
 
-## Active matter; theory and simulations
-**Effective viscosity of a dilue active suspension: a simple microscopic model**
-
-<figure>
-  <img src="/assets/images/fig1.png" width="1000px" alt="">
-  <figcaption> Geometry of a three-sphere swimmer immersed in a shear flow (left), and two interacting three-linked sphere swimmer (right).
-</figcaption>
-</figure>
-
-**Surface tension in soft active Brownian particles**
-
-<figure>
-  <img src="/assets/images/fig6.png" width="1000px" alt="">
-  <figcaption> Steady-state ABP system with bulk (green), interface (yellow) and dilute (red) phases.
-</figcaption> 
-</figure>
-
-
-**Motion of a filament on a fluid spherical membrane** 
-
-<figure>
-  <img src="/assets/images/fig5.png" width="1000px" alt="">
-  <figcaption> The flow field induced by a filament moving with a constant velocity in the parellel and perpendicular  direction with the corresponding resistances.
-</figcaption> 
-</figure>
-
-
-## Continuum modeling for rheology of cell cytoskeleton
-**Cell nucleus as a micro-rheological probe**
-
-<figure>
-  <img src="/assets/images/fig2.png" width="1000px" alt="">
-  <figcaption> Schematic representation of the intracellular assemblies formed by cytoskeletal filaments, namely microtubules, actin filaments, and intermediate filaments (left) and time-dependent displacements of the cell cortex under external hydrodynamic forces from pressure-driven flows in microchannels and the subsequent displacements of the nucleus, induced by the internal flows generated through the deformations of the cell cortex (right). 
-</figcaption> 
-</figure>
-
-**General solutions of linear poro-viscoelastic materials in spherical coordinates**
-
-<figure>
-  <img src="/assets/images/fig3.png" width="1000px" alt="">
-  <figcaption> A rigid spherical probe moving under a constant force. Sphere relaxation versus time for different values of permeability. 
-</figcaption> 
-</figure>
-
-
-**Reciprocal theorem for (equations of) linear poro-viscoelastic materials**
-
-<figure>
-  <img src="/assets/images/fig4.png" width="1000px" alt="">
-  <figcaption> An arbitrarily shaped inclusion in an unbounded domain. 
-</figcaption> 
-</figure>
 
 
 ## Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
@@ -104,7 +52,58 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figure>
 
 
+## Continuum modeling for rheology of cell cytoskeleton
+**Cell nucleus as a micro-rheological probe**
 
+<figure>
+  <img src="/assets/images/fig2.png" width="1000px" alt="">
+  <figcaption> Schematic representation of the intracellular assemblies formed by cytoskeletal filaments, namely microtubules, actin filaments, and intermediate filaments (left) and time-dependent displacements of the cell cortex under external hydrodynamic forces from pressure-driven flows in microchannels and the subsequent displacements of the nucleus, induced by the internal flows generated through the deformations of the cell cortex (right). 
+</figcaption> 
+</figure>
+
+**General solutions of linear poro-viscoelastic materials in spherical coordinates**
+
+<figure>
+  <img src="/assets/images/fig3.png" width="1000px" alt="">
+  <figcaption> A rigid spherical probe moving under a constant force. Sphere relaxation versus time for different values of permeability. 
+</figcaption> 
+</figure>
+
+
+**Reciprocal theorem for (equations of) linear poro-viscoelastic materials**
+
+<figure>
+  <img src="/assets/images/fig4.png" width="1000px" alt="">
+  <figcaption> An arbitrarily shaped inclusion in an unbounded domain. 
+</figcaption> 
+</figure>
+
+
+## Active matter; theory and simulations
+**Effective viscosity of a dilue active suspension: a simple microscopic model**
+
+<figure>
+  <img src="/assets/images/fig1.png" width="1000px" alt="">
+  <figcaption> Geometry of a three-sphere swimmer immersed in a shear flow (left), and two interacting three-linked sphere swimmer (right).
+</figcaption>
+</figure>
+
+**Surface tension in soft active Brownian particles**
+
+<figure>
+  <img src="/assets/images/fig6.png" width="1000px" alt="">
+  <figcaption> Steady-state ABP system with bulk (green), interface (yellow) and dilute (red) phases.
+</figcaption> 
+</figure>
+
+
+**Motion of a filament on a fluid spherical membrane** 
+
+<figure>
+  <img src="/assets/images/fig5.png" width="1000px" alt="">
+  <figcaption> The flow field induced by a filament moving with a constant velocity in the parellel and perpendicular  direction with the corresponding resistances.
+</figcaption> 
+</figure>
 
 
 
