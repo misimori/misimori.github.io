@@ -102,7 +102,7 @@ Active particles contain internal degrees of freedom with the ability to take in
 
 <figure>
   <img src="/assets/images/fig1.png" width="1000px" alt="">
-  <figcaption> Geometry of a three-sphere swimmer immersed in a shear flow (left), and two interacting three-linked sphere swimmer (right).
+  <figcaption> Geometry of a three-linked-sphere (Najafi-Golestanian) swimmer immersed in a shear flow (left), and two interacting swimmers (right).
 </figcaption>
 </figure>
 
