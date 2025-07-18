@@ -18,6 +18,9 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 
 ## Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
+Chemically active, catalytic objects in aqueous environments can autonomously perform a variety of vital functions. The simplest of such objects is a patch of catalysts that is immobilized on the surface of a fluid-filled microchannel. In the presence of the appropriate reactants, the stationary catalytic patch can act as a “chemical pump”, generating density gradients that drive fluid flows, which, in turn, transport chemicals and immersed particles. Catalyst-coated, flexible objects (e.g., posts or sheets) would constitute the next level of complexity because they introduce additional degrees of freedom. The chemically active objects could generate fluid flows that propel this object through the solution. Such reconfigurable, self-propelled objects would greatly expand the utility of fluidic devices, allowing them to perform self-sustained operations that were previously unattainable with stationary chemical pumps or active hard particles.
+
+Through modeling, we show that enzymatic reactions on flexible microposts in solution inherently generate reaction-convection processes, which provide untapped approaches for regulating the spatiotemporal behavior of soft matter in fluids. Each variation in the system’s features leads to the formation of a different finger-print. Hence, the system constitutes a sensor, allowing specific chemicals to be identified through the formation of specific patterns. 
 
 **Using chemical reactions to generate patterns and design rules**
 
@@ -28,6 +31,8 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figure>
 
 **Non-reciprocal self-oscillation of a flexible micro-post by chemical reaction**
+Here, we design a system of flexible microposts in solution that convert non-oscillatory chemical input into self-organized oscillatory output, which enabled the posts to spontaneously propagate a chemical signal over long distances (i.e., comparable to the characteristic length in the system). 
+In the simplest two-post system, the reaction at the active post generates radially symmetric flow that kept the central post up-right. The fluid–structure interaction with the surrounding walls and the passive post broke this local symmetry and lead to the nontrivial behavior of the passive structure. This circular flow pattern enabled a non-oscillatory chemical input to produce oscillatory chemo- mechanical output.
 
 <figure>
   <img src="/assets/images/fig8.png" width="1000px" alt="">
@@ -36,6 +41,8 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figure>
 
 **Convective chemical influx from sidewalls to control dynamic behavior of micro-posts** 
+Relatively dense chemicals released from the chamber’s side walls diffuse into the solution and generate buoyancy-driven flows, which spontaneously trigger the posts to undergo collective dynamics. 
+The posts’ dynamics can be controllably programmed by staging the sequence of chemical release from the different walls. 
 
 <figure>
   <img src="/assets/images/fig9.png" width="1000px" alt="">
@@ -44,6 +51,8 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figure>
 
 **Active micro-posts control the morphology of underlying compliant substrates**
+While the behavior of cilial arrays in biology has been well studied, less is known about how the movement of cilia in flowing fluids affects the morphology of the underlying, anchoring surface and how these morphological changes affect subsequent cilia-substrate interactions. Changes in the fluid velocity will in turn affect the forces acting on the deformable surfaces and lead to feedback in fluid-structure interactions, hydrodynamics, and even the kinetics of the enzymatic reaction.
+We modeled thin elastic surfaces that were decorated with an array of anchored enzyme-coated posts. The flow exerted fluid drag that morphed the entire carpet into either a scroll, envelope, or a bridge-like structure. 
 
 <figure>
   <img src="/assets/images/fig10.png" width="1000px" alt="">
