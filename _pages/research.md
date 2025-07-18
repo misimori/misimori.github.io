@@ -13,7 +13,6 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 - Active matter
 - Continuum modeling for rheology of cell cytoskeleton
-- Motion of a filament on a fluid spherical membrane
 - Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
 
 ## Active matter
@@ -30,6 +29,15 @@ My research interests lie at the intersection of physics-based modeling of cell 
 <figure>
   <img src="/assets/images/fig6.png" width="1000px" alt="">
   <figcaption> Steady-state ABP system with bulk (green), interface (yellow) and dilute (red) phases.
+</figcaption> 
+</figure>
+
+
+### Motion of a filament on a fluid spherical membrane 
+
+<figure>
+  <img src="/assets/images/fig5.png" width="1000px" alt="">
+  <figcaption> The flow field induced by a filament moving with a constant velocity in the parellel and perpendicular  direction with the corresponding resistances.
 </figcaption> 
 </figure>
 
@@ -57,15 +65,6 @@ My research interests lie at the intersection of physics-based modeling of cell 
 <figure>
   <img src="/assets/images/fig4.png" width="1000px" alt="">
   <figcaption> An arbitrarily shaped inclusion in an unbounded domain. 
-</figcaption> 
-</figure>
-
-
-## Motion of a filament on a fluid spherical membrane 
-
-<figure>
-  <img src="/assets/images/fig5.png" width="1000px" alt="">
-  <figcaption> The flow field induced by a filament moving with a constant velocity in the parellel and perpendicular  direction with the corresponding resistances.
 </figcaption> 
 </figure>
 
