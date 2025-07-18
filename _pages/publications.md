@@ -12,7 +12,7 @@ author_profile: true
 {% for pub in pubs %}
   <li style="margin-bottom: 20px; overflow: hidden;">
     {% if pub.image %}
-      <img src="{{ pub.image | relative_url }}" width="100px" alt="Image for {{ pub.title }}" style="float: left; margin-right: 10px; border-radius: 4px;" />
+      <img src="{{ pub.image | relative_url }}" width="150px" alt="Image for {{ pub.title }}" style="float: left; margin-right: 15px; border-radius: 6px;" />
     {% endif %}
     <div>
       {{ pub.authors }}. <strong>{{ pub.title }}</strong>. <em>{{ pub.journal }}</em>, <strong>{{ pub.year }}</strong>.
