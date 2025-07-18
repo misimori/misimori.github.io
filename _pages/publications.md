@@ -5,12 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## Journal Articles
+
+
 <div class="small">
 {% assign pubs = site.data.publications | sort: 'year' | reverse %}
 
 <ol reversed>
 {% for pub in pubs %}
-  <li style="margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #ccc; overflow: hidden;">
+  <li style="margin-bottom: 20px; padding-bottom: 20px; border-bottom: 0.5px solid #007acc; overflow: hidden;">
     {% if pub.image %}
       <img src="{{ pub.image | relative_url }}" width="150px" alt="Image for {{ pub.title }}" style="float: left; margin-right: 15px; border-radius: 6px;" />
     {% endif %}
