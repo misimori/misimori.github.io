@@ -30,7 +30,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig2.png" width="1000px" alt="">
-  </figcaption>A schematic representation of the intracellular assemblies formed by cytoskeletal filaments, namely microtubules, actin filaments, and intermediate filaments (*left*) and time-dependent displacements of the cell cortex under external hydrodynamic forces from pressure-driven flows in microchannels and the subsequent displacements of the nucleus, induced by the internal flows generated through the defor- mations of the cell cortex (*right*). 
+  <figcaption>A schematic representation of the intracellular assemblies formed by cytoskeletal filaments, namely microtubules, actin filaments, and intermediate filaments (*left*) and time-dependent displacements of the cell cortex under external hydrodynamic forces from pressure-driven flows in microchannels and the subsequent displacements of the nucleus, induced by the internal flows generated through the defor- mations of the cell cortex (*right*). 
 </figcaption>
 </figure>
 
