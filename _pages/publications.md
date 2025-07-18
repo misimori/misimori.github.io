@@ -14,7 +14,7 @@ author_profile: true
     {{ pub.authors }}. <strong>{{ pub.title }}</strong>. <em>{{ pub.journal }}</em>, <strong>{{ pub.year }}</strong>.
     {% if pub.doi %} <a href="{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
     {% if pub.pdf %} | <a href="{{ pub.pdf }}" target="_blank">PDF</a>{% endif %}
-    {% if pub.image %} <a img src="/assets/images/m2lines_logo.png" width="100px" alt="">image</a>{% endif %}
+    {% if pub.image %} <a img src="{{ pub.image | relative_url }}" width="100px" alt="" /a>{% endif %}
   </li> 
 {% endfor %}
 </ol>
