@@ -95,8 +95,10 @@ Using Laplace transformation, we developed a robust mathematical framework for d
 
 
 ## Active matter; theory and simulations
-**(i) Effective viscosity of a dilue active suspension: a simple microscopic model**<br>
+Active particles contain internal degrees of freedom with the ability to take in and dissipate energy and, in the process, execute systematic movement. Examples include all living organisms and their motile constituents such as molecular motors. Moreover, active matter systems produce internal stresses autonomously, pushing them far from equilibrium and allowing them to operate beyond traditional thermodynamic limitations. As a result, they are capable of influencing both their own dynamics and those of their surrounding environment. This leads to intriguing phenomena like spontaneous self-assembly and pattern formation, while also posing significant theoretical challenges for understanding their complex dynamics within the framework of soft matter statistical physics.
 
+**(i) Effective viscosity of a dilue active suspension: a simple microscopic model**<br>
+<span style="font-size: 18px;"> With a detailed microscopic model for a self-propelled swimmer, we derive the rheological properties of a dilute suspension of such particles at small Peclet number. It is shown that, in addition to Einstein’s like contribution to the effective viscosity, that is proportional to the volume fraction of the swimmers, a contribution due to the activity of self-propelled particles influences the viscosity. As a result of the activity of swimmers, the effective viscosity would be lower (higher) than the viscosity of the suspending medium when the particles are pusher (puller). Such activity-dependent contribution will also result a non-Newtonian behavior of the suspension in the form of normal stress differences. </span> 
 
 <figure>
   <img src="/assets/images/fig1.png" width="1000px" alt="">
@@ -105,7 +107,7 @@ Using Laplace transformation, we developed a robust mathematical framework for d
 </figure>
 
 **(ii) Surface tension in soft active Brownian particles**<br>
-
+<span style="font-size: 18px;"> Beyond a certain threshold of activity, active Brownian particles (ABPs) can spontaneously separate into two distinct phases - a dense, aggregated region coexisting with a more dilute, gas-like phase. This phenomenon, known as motility-induced phase separation (MIPS), emerges not from attractive interactions but from the interplay between particle motion and local crowding. The stability of the dense cluster is sustained by the orientational ordering of particles at its boundary, which generates the mechanical cohesion needed to maintain the cluster’s shape. Through a combination of particle simulations and coarse-grained theories we found that surface tension is nearly zero on the phase separated domains, irrespective of activity, softness, and area fraction. </span> 
 
 <figure>
   <img src="/assets/images/fig6.png" width="1000px" alt="">
@@ -115,7 +117,7 @@ Using Laplace transformation, we developed a robust mathematical framework for d
 
 
 **(iii) Motion of a filament on a fluid spherical membrane**<br> 
-
+<span style="font-size: 18px;"> The filament dynamics are determined, in part, by their membrane-mediated hydrodynamic interactions. Previous modeling studies have considered the dynamics of a single rod on fluid planar membranes. We extend these studies to the more physiologically relevant case of a single filament moving in a spherical membrane. </span>
 
 <figure>
   <img src="/assets/images/fig5.png" width="1000px" alt="">
