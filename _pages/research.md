@@ -14,7 +14,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 - Active matter
 - Continuum modeling for rheology of cell cytoskeleton
 - Motion of a filament on a fluid spherical membrane
-- Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions in a micro-chamber (Lattice-Boltzman-Immersed-Boundary simulations)
+- Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
 
 ## Active matter
 ### Effective viscosity of a dilue active suspension: a simple microscopic model
@@ -70,7 +70,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figure>
 
 
-## Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions in a micro-chamber (Lattice-Boltzman-Immersed-Boundary simulations)
+## Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
 
 ### Using chemical reactions to generate patterns and design rules
 
