@@ -2,7 +2,7 @@
   authors: "Moradi, Moslem and Shklyaev, Oleg E and Balazs, Anna C"
   journal: "Langmuir"
   year: 2025
-  image: "/assets/images/fig9.npg"
+  image: "/assets/images/fig9.png"
   url: "https://pubs.acs.org/doi/full/10.1021/acs.langmuir.4c04567"
   pdf: "/assets/MyPapers/Langmuir2025.pdf"
 
@@ -10,7 +10,7 @@
   authors: "Moradi, Moslem and Shklyaev, Oleg E and Shi, Wenzheng and Balazs, Anna C"
   journal: "Materials Horizons"
   year: 2024
-  image: "/assets/images/fig8.npg"
+  image: "/assets/images/fig8.png"
   url: "https://pubs.rsc.org/en/content/articlehtml/2024/mh/d4mh01111b"
   pdf: "/assets/MyPapers/Materials_Horizons.pdf"
 
@@ -18,7 +18,7 @@
   authors: "Moradi, Moslem and Shi, Wenzheng and Nazockdast, Ehssan"
   journal: "Journal of Fluid Mechanics"
   year: 2024
-  image: "/assets/images/fig4.npg"
+  image: "/assets/images/fig4.png"
   url: "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reciprocal-theorem-for-biphasic-poroviscoelastic-materials/FFA962A536E4BA186533B76F71542658"
   pdf: "/assets/MyPapers/Reciprocal.pdf"
 
@@ -26,7 +26,7 @@
   authors: "Moradi, Moslem and Shklyaev, Oleg E and Balazs, Anna C"
   journal: "Proceedings of the National Academy of Sciences"
   year: 2024
-  image: "/assets/images/fig7.npg"
+  image: "/assets/images/fig7.png"
   url: "https://www.pnas.org/doi/abs/10.1073/pnas.2319777121"
   pdf: "/assets/MyPapers/PNAS2024.pdf"
 
@@ -34,7 +34,7 @@
   authors: "Shi, Wenzheng and Moradi, Moslem and Nazockdast, Ehssan"
   journal: "Journal of Fluid Mechanics"
   year: 2024
-  image: "/assets/images/fig5b.npg"
+  image: "/assets/images/fig5b.png"
   url: "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/drag-of-a-filament-moving-in-a-supported-spherical-bilayer/E098439C74EA293CEEB613C431772DCE"
   pdf: "/assets/MyPapers/filament_JFM.pdf"
  
@@ -42,7 +42,7 @@
   authors: "Moradi, Moslem and Shi, Wenzheng and Nazockdast, Ehssan"
   journal: "Journal of Fluid Mechanics"
   year: 2022
-  image: "/assets/images/fig3.npg"
+  image: "/assets/images/fig3.png"
   url: "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/general-solutions-of-linear-poroviscoelastic-materials-in-spherical-coordinates/FC733BCE782201591C486BE96DC28D61"
   pdf: "/assets/MyPapers/general_solutions.pdf"
 
@@ -50,7 +50,7 @@
   authors: "Shi, Wenzheng and Moradi, Moslem and Nazockdast, Ehssan"
   journal: "Physical Review Fluids"
   year: 2022
-  image: "/assets/images/fig5.npg"
+  image: "/assets/images/fig5.png"
   url: "https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.084004"
   pdf: "/assets/MyPapers/PRF1.pdf"
 
@@ -58,7 +58,7 @@
   authors: "Moradi, Moslem and Nazockdast, Ehssan"
   journal: "Biophysical Journal"
   year: 2021
-  image: "/assets/images/fig2.npg"
+  image: "/assets/images/fig2.png"
   url: "https://www.cell.com/biophysj/fulltext/S0006-3495(21)00211-3"
   pdf: "/assets/MyPapers/BioPhysJ.pdf"
 
@@ -66,7 +66,7 @@
   authors: "Lauersdorf, Nicholas and Kolb, Thomas and Moradi, Moslem and Nazockdast, Ehssan and Klotsa, Daphne"
   journal: "Soft Matter"
   year: 2021
-  image: "/assets/images/fig6.npg"
+  image: "/assets/images/fig6.png"
   url: "https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00350j"
   pdf: "/assets/MyPapers/SoftMatter1.pdf"
 
@@ -74,7 +74,7 @@
   authors: "Moradi, Moslem and Najafi, Ali"
   journal: "Physical Review E"
   year: 2017
-  image: "/assets/images/fig1b.npg"
+  image: "/assets/images/fig1b.png"
   url: "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.022611"
   pdf: "/assets/MyPapers/PRE1.pdf"
 
@@ -82,7 +82,7 @@
   authors: "Moradi, Moslem and Najafi, Ali"
   journal: "Europhysics Letters"
   year: 2015
-  image: "/assets/images/fig1a.npg"
+  image: "/assets/images/fig1a.png"
   url: "https://iopscience.iop.org/article/10.1209/0295-5075/109/24001/meta"
   pdf: "/assets/MyPapers/EPL2015"
 
@@ -90,7 +90,7 @@
   authors: "Mehri, Ali and Jamaati, Maryam and Moradi, Moslem"
   journal: "International Journal of Modern Physics C"
   year: 2015
-  image: "/assets/images/fig10.npg"
+  image: "/assets/images/fig11.png"
   url: "https://www.worldscientific.com/doi/abs/10.1142/S0129183115501053"
 
 
