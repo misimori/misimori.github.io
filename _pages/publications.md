@@ -18,3 +18,21 @@ author_profile: true
 {% endfor %}
 </ol>
 </div>
+
+
+{% for pub in site.data.publications %}
+<div class="publication" style="overflow: hidden; margin-bottom: 20px;">
+  {% if pub.image %}
+    <img src="{{ pub.image | relative_url }}" alt="Thumbnail for {{ pub.title }}" style="width: 100px; float: left; margin-right: 15px; border-radius: 6px;" />
+  {% endif %}
+  <p>
+    <strong>{{ pub.title }}</strong><br>
+    {{ pub.authors }}<br>
+    <em>{{ pub.journal }}</em>, {{ pub.year }}<br>
+    {% if pub.link %}
+      <a href="{{ pub.link }}">[PDF]</a>
+    {% endif %}
+  </p>
+</div>
+{% endfor %}
+
