@@ -21,7 +21,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 Chemically active, catalytic objects in aqueous environments can autonomously perform a variety of vital functions. The simplest of such objects is a patch of catalysts that is immobilized on the surface of a fluid-filled microchannel. In the presence of the appropriate reactants, the stationary catalytic patch can act as a “chemical pump”, generating density gradients that drive fluid flows, which, in turn, transport chemicals and immersed particles. Catalyst-coated, flexible objects (e.g., posts or sheets) would constitute the next level of complexity because they introduce additional degrees of freedom. The chemically active objects could generate fluid flows that propel this object through the solution. Such reconfigurable, self-propelled objects would greatly expand the utility of fluidic devices, allowing them to perform self-sustained operations that were previously unattainable with stationary chemical pumps or active hard particles.
 
 
-**(i)- Using chemical reactions to generate patterns and design rules**<br>
+**(i) Using chemical reactions to generate patterns and design rules**<br>
 <span style="font-size: 18px;"> Through modeling, we show that enzymatic reactions on flexible microposts in solution inherently generate reaction-convection processes, which provide untapped approaches for regulating the spatiotemporal behavior of soft matter in fluids. Each variation in the system’s features leads to the formation of a different finger-print. Hence, the system constitutes a sensor, allowing specific chemicals to be identified through the formation of specific patterns. </span> 
 
 <figure>
@@ -30,7 +30,7 @@ Chemically active, catalytic objects in aqueous environments can autonomously pe
 </figcaption> 
 </figure>
 
-**(ii)- Non-reciprocal self-oscillation of a flexible micro-post by chemical reaction**<br>
+**(ii) Non-reciprocal self-oscillation of a flexible micro-post by chemical reaction**<br>
 <span style="font-size: 18px;"> Here, we design a system of flexible microposts in solution that convert non-oscillatory chemical input into self-organized oscillatory output, which enabled the posts to spontaneously propagate a chemical signal over long distances (i.e., comparable to the characteristic length in the system). 
 In the simplest two-post system, the reaction at the active post generates radially symmetric flow that kept the central post up-right. The fluid–structure interaction with the surrounding walls and the passive post broke this local symmetry and lead to the nontrivial behavior of the passive structure. This circular flow pattern enabled a non-oscillatory chemical input to produce oscillatory chemo-mechanical output. </span> 
 
@@ -40,7 +40,7 @@ In the simplest two-post system, the reaction at the active post generates radia
 </figcaption> 
 </figure>
 
-**(iii)- Convective chemical influx from sidewalls to control dynamic behavior of micro-posts**<br>
+**(iii) Convective chemical influx from sidewalls to control dynamic behavior of micro-posts**<br>
 <span style="font-size: 18px;"> Relatively dense chemicals released from the chamber’s side walls diffuse into the solution and generate buoyancy-driven flows, which spontaneously trigger the posts to undergo collective dynamics. 
 The posts’ dynamics can be controllably programmed by staging the sequence of chemical release from the different walls. </span>
 
@@ -50,7 +50,7 @@ The posts’ dynamics can be controllably programmed by staging the sequence of 
 </figcaption> 
 </figure>
 
-**(iv)- Active micro-posts control the morphology of underlying compliant substrates**<br>
+**(iv) Active micro-posts control the morphology of underlying compliant substrates**<br>
 <span style="font-size: 18px;"> While the behavior of cilial arrays in biology has been well studied, less is known about how the movement of cilia in flowing fluids affects the morphology of the underlying, anchoring surface and how these morphological changes affect subsequent cilia-substrate interactions. Changes in the fluid velocity will in turn affect the forces acting on the deformable surfaces and lead to feedback in fluid-structure interactions, hydrodynamics, and even the kinetics of the enzymatic reaction.
 We modeled thin elastic surfaces that were decorated with an array of anchored enzyme-coated posts. The flow exerted fluid drag that morphed the entire carpet into either a scroll, envelope, or a bridge-like structure. </span> 
 
@@ -62,7 +62,11 @@ We modeled thin elastic surfaces that were decorated with an array of anchored e
 
 
 ## Continuum modeling for rheology of cell cytoskeleton
-**Cell nucleus as a micro-rheological probe**
+The importance of mechanics and shape in biology has been appreciated for a long time. However, more recently, experimental advances have allowed quantitative measurements of forces, flows, and shapes of cells and tissues. Experiments suggest that in whole cell scale, the cell cytoskeleton and its permeating cytosol may be modelled as a two-phase poro-viscoelastic (PVE) material composed of a viscoelastic (VE) network permeated by a viscous cytosol.
+Using Laplace transformation, we developed a robust mathematical framework for describing the motion of inclusions moving in PVE materials, and the interior displacements generated by the motion of outer boundaries.
+
+**(i) Cell nucleus as a micro-rheological probe**<br>
+<span style="font-size: 18px;"> We propose a method to decouple the mechanics of the cell cortex and the cytoplasm by analyzing the correlation between the cortical deformations that are induced by external micro-fluidic flows and the nucleus displacements, induced by those cortical deformations, i.e., we use the nucleus as a high-throughput micro-rheological probe to study the rheology of the cytoplasm, independent of the cell cortex mechanics. </span>
 
 <figure>
   <img src="/assets/images/fig2.png" width="1000px" alt="">
@@ -70,7 +74,8 @@ We modeled thin elastic surfaces that were decorated with an array of anchored e
 </figcaption> 
 </figure>
 
-**General solutions of linear poro-viscoelastic materials in spherical coordinates**
+**(ii) General solutions of linear poro-viscoelastic materials in spherical coordinates**<br>
+<span style="font-size: 18px;"> We present the first general solution to two-phase PVE system in spherical coordinates, where we assume that both the fluid and network phases are in their linear response regime. Specifically, we use generalized linear incompressible and compressible VE constitutive equations to describe the stress in the fluid and network phases, respectively. We use these general solutions to study the motion of a rigid sphere moving under a constant force inside a two-phase system, composed of a linear elastic network and a Newtonian fluid. It is shown that the network compressibility introduces a slow relaxation of the sphere and non-monotonic network displacements with time along the direction of the applied force. </span> 
 
 <figure>
   <img src="/assets/images/fig3.png" width="1000px" alt="">
@@ -79,7 +84,8 @@ We modeled thin elastic surfaces that were decorated with an array of anchored e
 </figure>
 
 
-**Reciprocal theorem for (equations of) linear poro-viscoelastic materials**
+**(iii) Reciprocal theorem for (equations of) linear poro-viscoelastic materials**<br>
+<span style="font-size: 18px;"> The main idea in reciprocal theorem is that the solutions to an auxiliary problem under a given set of bounday conditions can be used to obtain the solutions under another more complex set of BCs without having to solve the boundary value problem. We derive a reciprocal theorem for poro-viscoelastic (or biphasic) materials that are composed of a linear compressible solid phase, permeated by a viscous fluid. As an example, we analytically calculate the time-dependent net force on a rigid sphere in response to point forces applied to the elastic network and the Newtonian fluid phases of the biphasic material. </span> 
 
 <figure>
   <img src="/assets/images/fig4.png" width="1000px" alt="">
@@ -89,7 +95,8 @@ We modeled thin elastic surfaces that were decorated with an array of anchored e
 
 
 ## Active matter; theory and simulations
-**Effective viscosity of a dilue active suspension: a simple microscopic model**
+**(i) Effective viscosity of a dilue active suspension: a simple microscopic model**<br>
+
 
 <figure>
   <img src="/assets/images/fig1.png" width="1000px" alt="">
@@ -97,7 +104,8 @@ We modeled thin elastic surfaces that were decorated with an array of anchored e
 </figcaption>
 </figure>
 
-**Surface tension in soft active Brownian particles**
+**(ii) Surface tension in soft active Brownian particles**<br>
+
 
 <figure>
   <img src="/assets/images/fig6.png" width="1000px" alt="">
@@ -106,7 +114,8 @@ We modeled thin elastic surfaces that were decorated with an array of anchored e
 </figure>
 
 
-**Motion of a filament on a fluid spherical membrane** 
+**(iii) Motion of a filament on a fluid spherical membrane**<br> 
+
 
 <figure>
   <img src="/assets/images/fig5.png" width="1000px" alt="">
