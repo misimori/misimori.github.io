@@ -80,7 +80,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 </figcaption> 
 </figure>
 
-### Non-reciprocal self-oscillations of flexible micro-posts
+### Non-reciprocal self-oscillation of a flexible micro-post by chemical reaction
 
 <figure>
   <img src="/assets/images/fig8.png" width="1000px" alt="">
