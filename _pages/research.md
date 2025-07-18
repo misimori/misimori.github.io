@@ -20,7 +20,11 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 ## Effective viscosity of a dilue active suspension
 
-
+<figure>
+  <img src="/assets/images/fig1 width="1000px" alt="">
+  <figcaption>Three-sphere .
+</figcaption>
+</figure>
 
 
 
