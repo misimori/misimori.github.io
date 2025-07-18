@@ -16,16 +16,16 @@ author_profile: true
     {% if pub.pdf %} | <a href="{{ pub.pdf }}" target="_blank">PDF</a>{% endif %}
   </li>
   {% if pub.image %}
-    <img src="{{ pub.image | relative_url }}" alt="Thumbnail for {{ pub.title }}" style="width: 100px; float: left; margin-right: 15px; border-radius: 6px;" />
+    <img src="{{ pub.image | relative_url }}" alt="Thumbnail for {{ pub.title }}" style="width: 300px; float: left; margin-right: 15px; border-radius: 6px;" />
   {% endif %}
-  <p>
+  
     <strong>{{ pub.title }}</strong><br>
     {{ pub.authors }}<br>
     <em>{{ pub.journal }}</em>, {{ pub.year }}<br>
     {% if pub.link %}
       <a href="{{ pub.link }}">[PDF]</a>
     {% endif %}
-  </p>
+  
   
 {% endfor %}
 </ol>
