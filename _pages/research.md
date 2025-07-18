@@ -22,7 +22,7 @@ Chemically active, catalytic objects in aqueous environments can autonomously pe
 
 
 **(i)- Using chemical reactions to generate patterns and design rules**<br>
-<span style="font-size: 18px;"> Through modeling, we show that enzymatic reactions on flexible microposts in solution inherently generate reaction-convection processes, which provide untapped approaches for regulating the spatiotemporal behavior of soft matter in fluids. Each variation in the system’s features leads to the formation of a different finger-print. Hence, the system constitutes a sensor, allowing specific chemicals to be identified through the formation of specific patterns. </span>
+<span style="font-size: 18px;"> Through modeling, we show that enzymatic reactions on flexible microposts in solution inherently generate reaction-convection processes, which provide untapped approaches for regulating the spatiotemporal behavior of soft matter in fluids. Each variation in the system’s features leads to the formation of a different finger-print. Hence, the system constitutes a sensor, allowing specific chemicals to be identified through the formation of specific patterns. </span> 
 
 <figure>
   <img src="/assets/images/fig7.png" width="1000px" alt="">
