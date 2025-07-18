@@ -21,7 +21,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig1.png" width="1000px" alt="">
-  <figcaption>Geometry of a three-sphere swimmer immersed in a shear flow (left), and two interacting three-linked sphere swimmer (right).
+  <figcaption> Geometry of a three-sphere swimmer immersed in a shear flow (left), and two interacting three-linked sphere swimmer (right).
 </figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig6.png" width="1000px" alt="">
-  <figcaption>Steady-state ABP system with bulk (green), interface (yellow) and dilute (red) phases.
+  <figcaption> Steady-state ABP system with bulk (green), interface (yellow) and dilute (red) phases.
 </figcaption> 
 </figure>
 
@@ -39,7 +39,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig2.png" width="1000px" alt="">
-  <figcaption>Schematic representation of the intracellular assemblies formed by cytoskeletal filaments, namely microtubules, actin filaments, and intermediate filaments (left) and time-dependent displacements of the cell cortex under external hydrodynamic forces from pressure-driven flows in microchannels and the subsequent displacements of the nucleus, induced by the internal flows generated through the deformations of the cell cortex (right). 
+  <figcaption> Schematic representation of the intracellular assemblies formed by cytoskeletal filaments, namely microtubules, actin filaments, and intermediate filaments (left) and time-dependent displacements of the cell cortex under external hydrodynamic forces from pressure-driven flows in microchannels and the subsequent displacements of the nucleus, induced by the internal flows generated through the deformations of the cell cortex (right). 
 </figcaption> 
 </figure>
 
@@ -47,7 +47,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig3.png" width="1000px" alt="">
-  <figcaption>A rigid spherical probe moving under a constant force. Sphere relaxation versus time for different values of permeability. 
+  <figcaption> A rigid spherical probe moving under a constant force. Sphere relaxation versus time for different values of permeability. 
 </figcaption 
 </figure>
 
@@ -71,11 +71,12 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 
 ## Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions in a micro-chamber (Lattice-Boltzman-Immersed-Boundary simulations)
+
 ### Using chemical reactions to generate patterns and design rules
 
 <figure>
   <img src="/assets/images/fig7.png" width="1000px" alt="">
-  <figcaption>Schematic of a square array of elastic posts in a fluid-filled rectangular chamber containing five enzyme-coated posts: one with CAT (catalase) in the middle (blue), two with AP (acid phosphatase) along the central line in the x direction (pink), and two with urease at corners (orange).
+  <figcaption> Schematic of a square array of elastic posts in a fluid-filled rectangular chamber containing five enzyme-coated posts: one with CAT (catalase) in the middle (blue), two with AP (acid phosphatase) along the central line in the x direction (pink), and two with urease at corners (orange).
 </figcaption 
 </figure>
 
@@ -83,7 +84,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig8.png" width="1000px" alt="">
-  <figcaption>Self-oscillation of a passive elastic post induced by an active one (top). Different modes of motion of UR-coated post by changing the bending stiffness (bottom). 
+  <figcaption> Self-oscillation of a passive elastic post induced by an active one (top). Different modes of motion of UR-coated post by changing the bending stiffness (bottom). 
 </figcaption 
 </figure>
 
@@ -99,7 +100,7 @@ My research interests lie at the intersection of physics-based modeling of cell 
 
 <figure>
   <img src="/assets/images/fig10.png" width="1000px" alt="">
-  <figcaption>Multiple shape changes of an elastic CAT-coated sheet with anchored AP-coated micro-posts of different lengths around the sheet.
+  <figcaption> Multiple shape changes of an elastic CAT-coated sheet with anchored AP-coated micro-posts of different lengths around the sheet.
 </figcaption 
 </figure>
 
