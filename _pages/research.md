@@ -9,7 +9,8 @@ toc_label: "Research"
 toc_icon: "gear"
 toc_sticky: true
 ---
-My research interests lie at the intersection of physics-based modeling of cell mechanics, soft matter and fluid structure interactions. Current and past research projects include:
+My research interests lie at the intersection of physics-based modeling of cell mechanics, soft matter and fluid structure interactions.<br> 
+Current and past research projects include:
 
 - Bouyancy-driven motion of elastic micro-posts/sheets by enzymatic reactions (Lattice-Boltzman-Immersed-Boundary simulations)
 - Continuum modeling for rheology of cell cytoskeleton
