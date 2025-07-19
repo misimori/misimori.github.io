@@ -17,7 +17,7 @@ author_profile: true
   <li style="margin-bottom: 20px; padding-bottom: 20px; border-bottom: 0.5px solid #007acc; overflow: hidden;">
       {% if pub.image %}
         <a href="{{ pub.image | relative_url }}" target="_blank">
-          <img src="{{ pub.image | relative_url }}" width="150px" alt="Image for {{ pub.title }}" style="float: left;           margin-right: 15px; border-radius: 6px;" />
+          <img src="{{ pub.image | relative_url }}" width="170px" alt="Image for {{ pub.title }}" style="float: left;           margin-right: 15px; border-radius: 6px;" />
         </a>
       {% endif %}
     <div>
