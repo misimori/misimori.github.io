@@ -12,13 +12,13 @@ toc_sticky: true
 My research interests lie at the intersection of physics-based modeling of cell/tissue mechanics, soft actuating materials and fluid-structure interactions.<br> 
 Current and past research projects include:
 
-- Bouyancy-driven motion of elastic micro-structures (Lattice-Boltzman-Immersed-Boundary simulations)
+- Bouyancy-driven motion of active elastic micro-structures (Lattice-Boltzman-Immersed-Boundary simulations)
 - Continuum modeling for rheology of cell cytoskeleton
 - Active matter; theory and simulations
 
 
 
-## Bouyancy-driven motion of elastic micro-structures (Lattice-Boltzman-Immersed-Boundary simulations)
+## Bouyancy-driven motion of active elastic micro-structures (Lattice-Boltzman-Immersed-Boundary simulations)
 Chemically active, catalytic objects in aqueous environments can autonomously perform a variety of vital functions. The simplest of such objects is a patch of catalysts that is immobilized on the surface of a fluid-filled microchannel. In the presence of the appropriate reactants, the stationary catalytic patch can act as a “chemical pump”, generating density gradients that drive fluid flows, which, in turn, transport chemicals and immersed particles. Catalyst-coated, flexible objects (e.g., posts or sheets) would constitute the next level of complexity because they introduce additional degrees of freedom. The chemically active objects could generate fluid flows that propel this object through the solution. Such reconfigurable, self-propelled objects would greatly expand the utility of fluidic devices, allowing them to perform self-sustained operations that were previously unattainable with stationary chemical pumps or active hard particles.
 
 
