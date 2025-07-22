@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: ""
 layout: single
+sidebar: false
+classes: wide
 author_profile: true
 ---
 # About
