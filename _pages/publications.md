@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Publications"
+sidebar: false
+classes: wide
 permalink: /publications/
 author_profile: true
 ---
