@@ -26,7 +26,11 @@ Chemically active, catalytic objects in aqueous environments can autonomously pe
 <span style="font-size: 18px;"> Through modeling, we show that enzymatic reactions on flexible microposts in solution inherently generate reaction-convection processes, which provide untapped approaches for regulating the spatiotemporal behavior of soft matter in fluids. Each variation in the system’s features leads to the formation of a different finger-print. Hence, the system constitutes a sensor, allowing specific chemicals to be identified through the formation of specific patterns. </span> 
 
 <figure>
-  <img src="/assets/images/fig7.png" width="1000px" alt="">
+ <!-- <img src="/assets/images/fig7.png" width="1000px" alt="">  -->
+    <video width="100%" controls autoplay muted loop>
+    <source src="{{ '/assets/images/Movie1.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
   <figcaption> Schematic of a square array of elastic posts in a fluid-filled rectangular chamber containing five enzyme-coated posts: one with CAT (catalase) in the middle (blue), two with AP (acid phosphatase) along the central line in the x direction (pink), and two with urease at corners (orange).
 </figcaption> 
 </figure>
