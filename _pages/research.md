@@ -27,10 +27,12 @@ Chemically active, catalytic objects in aqueous environments can autonomously pe
 
 <figure>
  <!-- <img src="/assets/images/fig7.png" width="1000px" alt="">  -->
+  <div style="margin: 0; padding: 0;">
     <video width="100%" controls autoplay muted loop>
     <source src="{{ '/assets/images/Movie1.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
     </video>
+  </div>
   <figcaption> Schematic of a square array of elastic posts in a fluid-filled rectangular chamber containing five enzyme-coated posts: one with CAT (catalase) in the middle (blue), two with AP (acid phosphatase) along the central line in the x direction (pink), and two with urease at corners (orange).
 </figcaption> 
 </figure>
@@ -41,10 +43,12 @@ In the simplest two-post system, the reaction at the active post generates radia
 
 <figure>
   <!-- <img src="/assets/images/fig8.png" width="1000px" alt=""> -->
+  <div style="margin: 0; padding: 0;">
     <video width="100%" controls autoplay muted loop>
     <source src="{{ '/assets/images/Movie2.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
     </video>
+  </div>
   <figcaption> Self-oscillation of a passive elastic post induced by an active one (top). Different modes of motion of UR-coated post by changing the bending stiffness (bottom). 
 </figcaption> 
 </figure>
@@ -65,10 +69,12 @@ We modeled thin elastic surfaces that were decorated with an array of anchored e
 
 <figure>
   <!-- <img src="/assets/images/fig10.png" width="1000px" alt=""> -->
+ <div style="margin: 0; padding: 0;">
     <video width="100%" controls autoplay muted loop>
     <source src="{{ '/assets/images/Movie3.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
     </video>
+  </div>
   <figcaption> Multiple shape changes of an elastic CAT-coated sheet with anchored AP-coated micro-posts of different lengths around the sheet.
 </figcaption> 
 </figure>
