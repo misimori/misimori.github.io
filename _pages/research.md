@@ -40,7 +40,11 @@ Chemically active, catalytic objects in aqueous environments can autonomously pe
 In the simplest two-post system, the reaction at the active post generates radially symmetric flow that kept the central post up-right. The fluid–structure interaction with the surrounding walls and the passive post broke this local symmetry and lead to the nontrivial behavior of the passive structure. This circular flow pattern enabled a non-oscillatory chemical input to produce oscillatory chemo-mechanical output. </span> 
 
 <figure>
-  <img src="/assets/images/fig8.png" width="1000px" alt="">
+  <!-- <img src="/assets/images/fig8.png" width="1000px" alt=""> -->
+    <video width="100%" controls autoplay muted loop>
+    <source src="{{ '/assets/images/Movie2.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
   <figcaption> Self-oscillation of a passive elastic post induced by an active one (top). Different modes of motion of UR-coated post by changing the bending stiffness (bottom). 
 </figcaption> 
 </figure>
@@ -60,7 +64,11 @@ The posts’ dynamics can be controllably programmed by staging the sequence of 
 We modeled thin elastic surfaces that were decorated with an array of anchored enzyme-coated posts. The flow exerted fluid drag that morphed the entire carpet into either a scroll, envelope, or a bridge-like structure. </span> 
 
 <figure>
-  <img src="/assets/images/fig10.png" width="1000px" alt="">
+  <!-- <img src="/assets/images/fig10.png" width="1000px" alt=""> -->
+    <video width="100%" controls autoplay muted loop>
+    <source src="{{ '/assets/images/Movie3.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
   <figcaption> Multiple shape changes of an elastic CAT-coated sheet with anchored AP-coated micro-posts of different lengths around the sheet.
 </figcaption> 
 </figure>
