@@ -28,7 +28,7 @@ Chemically active, catalytic objects in aqueous environments can autonomously pe
 <figure>
  <!-- <img src="/assets/images/fig7.png" width="1000px" alt="">  -->
   <div style="margin: 0; padding: 0;">
-    <video width="100%" controls autoplay muted loop>
+    <video width="100%" controls autoplay muted>
     <source src="{{ '/assets/images/Movie1.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
     </video>
@@ -44,7 +44,7 @@ In the simplest two-post system, the reaction at the active post generates radia
 <figure>
   <!-- <img src="/assets/images/fig8.png" width="1000px" alt=""> -->
   <div style="margin: 0; padding: 0;">
-    <video width="100%" controls autoplay muted loop>
+    <video width="100%" controls autoplay muted>
     <source src="{{ '/assets/images/Movie2.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
     </video>
@@ -70,7 +70,7 @@ We modeled thin elastic surfaces that were decorated with an array of anchored e
 <figure>
   <!-- <img src="/assets/images/fig10.png" width="1000px" alt=""> -->
  <div style="margin: 0; padding: 0;">
-    <video width="100%" controls autoplay muted loop>
+    <video width="100%" controls autoplay muted>
     <source src="{{ '/assets/images/Movie3.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
     </video>
